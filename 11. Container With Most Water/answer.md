@@ -6,6 +6,9 @@ Return the maximum amount of water a container can store.
 
 Notice that you may not slant the container.
 
+[Explanation](https://youtu.be/KhL8cnEk65A)
+
+
  
 
 Answer:
